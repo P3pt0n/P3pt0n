@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**P3pt0n/P3pt0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Purchase_Web_Api
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on any web Project
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
